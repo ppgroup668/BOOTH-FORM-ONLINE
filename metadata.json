@@ -1,0 +1,6 @@
+{
+  "name": "中銀人壽團隊活動申請表 - PDF 編輯與簽署系統",
+  "description": "專為管理設計師及中銀人壽專屬代理團隊設計的官方PDF活動申請表編輯器。支援精準欄位填寫、勾選框、電子簽署、線上儲存與雲端同步、以及高保真PDF列印與下載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
